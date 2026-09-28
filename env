@@ -1,0 +1,6 @@
+PORT=5000
+MONGO_URI=MONGO_URI=mongodb://127.0.0.1:27017/ai_studybuddy
+JWT_ACCESS_SECRET=<your_jwt_secret>
+JWT_REFRESH_SECRET=<your_jwt_refresh_secret>
+GEMINI_API_KEY=AQ.Ab8RN6Igzmegg5LDqD4YDb0JiYeU37mmUe2jpBjdVt_HzeaW0A
+NODE_ENV=development
